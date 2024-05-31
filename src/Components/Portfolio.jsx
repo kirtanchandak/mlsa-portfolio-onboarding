@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "How to Prevent Image Caching in React.js and Next.js",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Several times when we are building an application we need to add user images such as profile pictures, thumbnails or any other image use-case",
+    url: "https://kirtanchandak.hashnode.dev/how-to-prevent-image-caching-in-reactjs-and-nextjs",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Kirtan's 2022 Wrap-up",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "2022 was a rollercoaster. A year of learning and exploring for me.",
+    url: "https://kirtanchandak.hashnode.dev/kirtan2022",
   },
   {
-    title: "My Resume Site",
+    title: "Portfolio Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from Next.js and MDX",
+    url: "https://kirtanchandak.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "How I won ₹50,000 at my first-ever hackathon in my First Year!!",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Hackathon! Hackathon!! Hackathon!!! I used to hear this word everywhere on YouTube, Twitter",
+    url: "https://kirtanchandak.hashnode.dev/smart-india-hackthon",
   },
 ];
 
